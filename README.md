@@ -11,6 +11,6 @@
 
 
 ```bash
- python3 AWC_classifier.py INPUT_DIRECTORY
+ python3 AWC_Classifier.py INPUT_DIRECTORY
  ```
  
